@@ -42,7 +42,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/amazon-prime-clone.git
+git clone https://github.com/shani-ydv/Prime_Clone_Project
 cd amazon-prime-clone
 Open index.html in your browser
 
